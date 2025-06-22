@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; }
+header { background: #f8f9fa; }
+footer { background: #007bff; color: #fff; }
+.container { max-width: 900px; }
